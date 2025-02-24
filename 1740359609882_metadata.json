@@ -1,0 +1,16 @@
+{
+  "name": "Fede",
+  "symbol": "FFF",
+  "description": "agaga",
+  "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/1740359609061_Screenshot 2025-02-12 234558.png",
+  "attributes": [
+    {
+      "trait_type": "decimals",
+      "value": "6"
+    },
+    {
+      "trait_type": "transfer_fee",
+      "value": "2"
+    }
+  ]
+}
