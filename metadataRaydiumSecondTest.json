@@ -1,7 +1,7 @@
 {
-  "name": "Fede",
-  "symbol": "asd",
-  "description": "df",
+  "name": "Raydium Second Test",
+  "symbol": "RST",
+  "description": "Second TOKEN test for raydium with transaction fees integrated of 5% just for test purpose",
   "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/1740359713451_Screenshot 2025-02-12 234558.png",
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "transfer_fee",
-      "value": "2"
+      "value": "5"
     }
   ]
 }
