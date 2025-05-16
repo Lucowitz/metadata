@@ -1,7 +1,7 @@
 {
-  "name": "Prime Gen Token 0.1",
-  "symbol": "PGT01",
-  "description": "First token test for a Prime Genesis token - Token0.1",
+  "name": "Prime Gen Token 0.2",
+  "symbol": "PGT02",
+  "description": "First token test for a Prime Genesis token - Token0.2 - no enable mint close",
   "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/PrimeGenesisTokenImg.png",
   "attributes": [
     {
