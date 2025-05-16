@@ -2,7 +2,7 @@
   "name": "Prime Gen Token 0.1",
   "symbol": "PGT01",
   "description": "First token test for a Prime Genesis token - Token0.1",
-  "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/spoty.png",
+  "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/PrimeGenesisTokenImg.png",
   "attributes": [
     {
       "trait_type": "decimals",
