@@ -1,0 +1,16 @@
+{
+  "name": "Prime Gen Token 0.1",
+  "symbol": "PGT01",
+  "description": "First token test for a Prime Genesis token - Token0.1",
+  "image": "https://raw.githubusercontent.com/Lucowitz/metadata/main/spoty.png",
+  "attributes": [
+    {
+      "trait_type": "decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "transfer_fee",
+      "value": "5"
+    }
+  ]
+}
